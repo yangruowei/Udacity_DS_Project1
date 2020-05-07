@@ -37,5 +37,7 @@ Generally developers have pretty good career satisfaction, with not much differe
 
 The most popular activities are finding an answer that solves a coding problem and copying code.
 
+I wrote a related blog post [here](https://medium.com/@ruowei.0.yang/some-key-questions-about-developers-ab5f33909908) to summarize the findings. 
+
 ### Acknowledgement
 Thanks to [Stack Overflow](https://insights.stackoverflow.com/survey) for the dataset. 
